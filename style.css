@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(35, 4, 56);
+    margin: center;
+    padding: center;
+    color: white;
+    text-align: center;
+    border:2px solid white;
+}
+
+.titulo-destaque {
+    color: rgb(153, 5, 141);
+}
+
+.texto-destaque {
+    color: whitesmoke;
+}
+
